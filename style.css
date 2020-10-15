@@ -2,9 +2,12 @@ body{
     background-color: beige;
 }
 
-h1{color: #663399;}
-h2{color: rgb(204, 62, 204)}
-h4{color: rgb(243, 183, 243)}
+h1{color: #794c74;
+   font-family: Verdana, Geneva, Tahoma, sans-serif}
+h2{color: #94B4A4;
+   font-family: fantasy}
+h4{color: #7579E7;
+   font-family: cursive}
 table, td{
-    border: 2px solid blue;
+    border: 2px solid #00587A;
 }
