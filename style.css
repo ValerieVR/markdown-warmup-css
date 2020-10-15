@@ -1,5 +1,7 @@
-body{
-    background-color: beige;
+body{background-image:linear-gradient(green, yellow)}
+
+}
+    
 }
 
 h1{color: #794c74;
@@ -10,4 +12,8 @@ h4{color: #7579E7;
    font-family: cursive}
 table, td{
     border: 2px solid #00587A;
+    background-color: salmon;
+    color: blue
 }
+img{width: 6cm;
+    height: 8cm}
