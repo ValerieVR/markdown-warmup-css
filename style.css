@@ -1,19 +1,27 @@
 body{background-image:linear-gradient(green, yellow)}
 
-}
-    
+h1{
+    color: #794c74;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
 }
 
-h1{color: #794c74;
-   font-family: Verdana, Geneva, Tahoma, sans-serif}
-h2{color: #94B4A4;
-   font-family: fantasy}
-h4{color: #7579E7;
-   font-family: cursive}
+h2{
+    color: #94B4A4;
+    font-family: fantasy
+}
+
+h4{
+    color: #7579E7;
+    font-family: cursive
+}
+
 table, td{
     border: 2px solid #00587A;
     background-color: salmon;
     color: blue
 }
-img{width: 6cm;
-    height: 8cm}
+
+img{
+    width: 6cm;
+    height: 8cm
+}
